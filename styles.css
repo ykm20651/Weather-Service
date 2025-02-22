@@ -1,0 +1,21 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #33ccff;
+    border-radius: 4px;
+    font-size: large;
+  }
+  
+  .table {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
